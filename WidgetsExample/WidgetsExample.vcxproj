@@ -142,10 +142,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="Main.h" />
     <ClInclude Include="WidgetsApp.h" />
     <ClInclude Include="WidgetsWindow.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="Main.cpp" />
     <ClCompile Include="WidgetsApp.cpp" />
     <ClCompile Include="WidgetsWindow.cpp" />
   </ItemGroup>
