@@ -21,18 +21,12 @@
     <ClInclude Include="WidgetsWindow.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="Main.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="WidgetsApp.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="WidgetsWindow.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
